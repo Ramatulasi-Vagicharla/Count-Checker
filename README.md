@@ -1,2 +1,2 @@
 # Count-Checker
-In this you can find an Simple Count Calculator.
+In this you can find an Simple Count Calculator Application.
